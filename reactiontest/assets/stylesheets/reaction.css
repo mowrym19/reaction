@@ -1,0 +1,15 @@
+
+
+#time {
+    font-weight: bold;
+}
+
+
+#dot1 {
+    display: none;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 50%;
+    margin: 50px;
+}
